@@ -1,0 +1,15 @@
+langchain
+langchain_openai
+langchain_community
+pymongo
+langchain_mongodb
+fastapi
+uvicorn 
+crewai 
+crewai_tools 
+pydantic 
+openai 
+langtrace-python-sdk
+pymysql
+langchain_pinecone
+langchain_cerebras
